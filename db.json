@@ -2876,9 +2876,9 @@
       },
       {
         "fName": "Onkar",
-        "lName": "Onkar",
-        "email": "2017@gmail.com",
-        "password": "qwe123!@#",
+        "lName": "kr",
+        "email": "onkar@gmail.com",
+        "password": "onkar123",
         "id": 3
       }
     ],
@@ -2931,10 +2931,10 @@
     "AdminDetails": {
     "id": 1,
     "Name": "Onkar.K",
-    "EmailId": "onkar.k@koolz.com",
+    "EmailId": "admin@gmail.com",
     "Image": "https://avatars.githubusercontent.com/u/110043714?v=4",
     "Phone": "7066990275",
-    "Password": "abc@123",
+    "Password": "admin123",
     "isAuth": false,
     "isAdmin": true
   },
@@ -3027,35 +3027,7 @@
       }
     ],
     "cart": [
-      {
-        "id": "M1HBC",
-        "active": true,
-        "img1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/komatoes-tokeyos-green-camos-resized-04.jpg?v=1668080478&width=360",
-        "img2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/komatoes-tokeyos-green-camos-resized-03.jpg?v=1668084853&width=360",
-        "brand": "Comatoes",
-        "title": "MEN'S TOKYOES ",
-        "price": 1999,
-        "description": "Get a seamless experience with koovs.",
-        "category": "shoes",
-        "is_best_seller": false,
-        "Order_status": "Pending",
-        "isOrdered": false,
-        "size": ""
-      },
-      {
-        "id": "M3HBC",
-        "active": true,
-        "img1": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/komatoes-tokeyos-navy-yellow-resized-03.jpg?v=1668080471&width=360",
-        "img2": "https://cdn.shopify.com/s/files/1/0677/1464/6315/products/komatoes-tokeyos-navy-yellow-resized-02.jpg?v=1668084935&width=360",
-        "brand": "Comatoes",
-        "title": "MEN'S TOKYOES IN NAVY & YELLOW",
-        "price": 1990,
-        "description": "Get a seamless experience with koovs.",
-        "category": "shoes",
-        "is_best_seller": false,
-        "Order_status": "Pending",
-        "isOrdered": false
-      }
+      
     ],
     "total": {
       "total": 3980,
